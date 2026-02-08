@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 *.txt
+=======
+>>>>>>> master
 # Prerequisites
 *.d
 
@@ -40,3 +43,8 @@
 
 # debug information files
 *.dwo
+<<<<<<< HEAD
+=======
+# 忽略VS的缓存目录
+.vs/
+>>>>>>> master

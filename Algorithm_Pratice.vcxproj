@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{7db49d02-4ad8-4d25-8ae2-8371a97f6fc3}</ProjectGuid>
+    <RootNamespace>AlgorithmPratice</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Link>
+      <SubSystem>Console</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <!-- 源文件列表（路径全部已修正为当前目录） -->
+  <ItemGroup>
+    <ClCompile Include="B01.cpp" />
+    <ClCompile Include="B02.cpp" />
+    <ClCompile Include="B03.cpp" />
+    <ClCompile Include="B04.cpp" />
+    <ClCompile Include="B05.cpp" />
+    <ClCompile Include="B06.cpp" />
+    <ClCompile Include="B07.cpp" />
+    <ClCompile Include="B10.cpp" />
+    <ClCompile Include="B11.cpp" />
+    <ClCompile Include="B12.cpp" />
+    <ClCompile Include="B13.cpp" />
+    <ClCompile Include="B14.cpp" />
+    <ClCompile Include="B15.cpp" />
+    <ClCompile Include="B16.cpp" />
+    <ClCompile Include="B17.cpp" />
+    <ClCompile Include="B18.cpp" />
+    <ClCompile Include="C01.cpp" />
+    <ClCompile Include="C02.cpp" />
+    <ClCompile Include="CF1385E.cpp" />
+    <ClCompile Include="D01.cpp" />
+    <ClCompile Include="E01.cpp" />
+    <ClCompile Include="E02.cpp" />
+    <ClCompile Include="E03.cpp" />
+    <ClCompile Include="E05.cpp" />
+    <ClCompile Include="E06.cpp" />
+    <ClCompile Include="E07.cpp" />
+    <ClCompile Include="E08.cpp" />
+    <ClCompile Include="E09.cpp" />
+    <ClCompile Include="E10.cpp" />
+    <ClCompile Include="E11.cpp" />
+    <ClCompile Include="E12.cpp" />
+    <ClCompile Include="E13.cpp" />
+    <ClCompile Include="E14.cpp" />
+    <ClCompile Include="E15.cpp" />
+    <ClCompile Include="E16.cpp" />
+    <ClCompile Include="E17.cpp" />
+    <ClCompile Include="E18.cpp" />
+    <ClCompile Include="E19.cpp" />
+    <ClCompile Include="E20.cpp" />
+    <ClCompile Include="E21.cpp" />
+    <ClCompile Include="E22.cpp" />
+    <ClCompile Include="E23.cpp" />
+    <ClCompile Include="E24.cpp" />
+    <ClCompile Include="E25.cpp" />
+    <ClCompile Include="E26.cpp" />
+    <ClCompile Include="E27.cpp" />
+    <ClCompile Include="E28.cpp" />
+    <ClCompile Include="E29.cpp" />
+    <ClCompile Include="E30.cpp" />
+    <ClCompile Include="E31.cpp" />
+    <ClCompile Include="E32.cpp" />
+    <ClCompile Include="E33.cpp" />
+    <ClCompile Include="E34.cpp" />
+    <ClCompile Include="E35.cpp" />
+    <ClCompile Include="E36.cpp" />
+    <ClCompile Include="E37.cpp" />
+    <ClCompile Include="E38.cpp" />
+    <ClCompile Include="F01.cpp" />
+    <ClCompile Include="F02.cpp" />
+    <ClCompile Include="F03.cpp" />
+    <ClCompile Include="F04.cpp" />
+    <ClCompile Include="F05.cpp" />
+    <ClCompile Include="F06.cpp" />
+    <ClCompile Include="F07.cpp" />
+    <ClCompile Include="F08.cpp" />
+    <ClCompile Include="G01.cpp" />
+    <ClCompile Include="G02.cpp" />
+    <ClCompile Include="G03.cpp" />
+    <ClCompile Include="G04.cpp" />
+    <ClCompile Include="G05.cpp" />
+    <ClCompile Include="G06.cpp" />
+    <ClCompile Include="G07.cpp" />
+    <ClCompile Include="G08.cpp" />
+    <ClCompile Include="lanqiao19724.cpp" />
+    <ClCompile Include="Lcp74.cpp" />
+    <ClCompile Include="model.cpp" />
+    <ClCompile Include="P10087.cpp" />
+    <ClCompile Include="P1111.cpp" />
+    <ClCompile Include="A01.cpp" />
+    <ClCompile Include="A02.cpp" />
+    <ClCompile Include="A03.cpp" />
+    <ClCompile Include="A04.cpp" />
+    <ClCompile Include="A05.cpp" />
+    <ClCompile Include="A06.cpp" />
+    <ClCompile Include="A07.cpp" />
+    <ClCompile Include="E04.cpp" />
+    <ClCompile Include="P1000.cpp" />
+    <ClCompile Include="P1012.cpp" />
+    <ClCompile Include="P1042.cpp" />
+    <ClCompile Include="P1204.cpp" />
+    <ClCompile Include="P1347.cpp" />
+    <ClCompile Include="P1364.cpp" />
+    <ClCompile Include="P1434.cpp" />
+    <ClCompile Include="P1563.cpp" />
+    <ClCompile Include="P1601.cpp" />
+    <ClCompile Include="P1719.cpp" />
+    <ClCompile Include="P1807.cpp" />
+    <ClCompile Include="P1967.cpp" />
+    <ClCompile Include="P2132.cpp" />
+    <ClCompile Include="P221.cpp" />
+    <ClCompile Include="P2241.cpp" />
+    <ClCompile Include="P2516.cpp" />
+    <ClCompile Include="P2629.cpp" />
+    <ClCompile Include="P1387.cpp" />
+    <ClCompile Include="P3368.cpp" />
+    <ClCompile Include="P3374.cpp" />
+    <ClCompile Include="P3397.cpp" />
+    <ClCompile Include="P4017.cpp" />
+    <ClCompile Include="P4231.cpp" />
+    <ClCompile Include="P4309.cpp" />
+    <ClCompile Include="P4407.cpp" />
+    <ClCompile Include="P5206.cpp" />
+    <ClCompile Include="P5461.cpp" />
+    <ClCompile Include="P7333.cpp" />
+    <ClCompile Include="SeqList.cpp" />
+    <ClCompile Include="T271585.cpp" />
+    <ClCompile Include="test.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="KeyIdeaP7333.txt" />
+    <Text Include="unsolved.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets" />
+</Project>

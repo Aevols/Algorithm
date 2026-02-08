@@ -1,0 +1,412 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\dongxiao">
+      <UniqueIdentifier>{a1d8d1c3-b53a-4916-8676-81751eac06ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\dongxiao\A">
+      <UniqueIdentifier>{1a0f9420-352c-4244-9447-756f9396d6f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\dongxiao\E">
+      <UniqueIdentifier>{c3935866-5704-4ee7-a282-d4d3b827e0de}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\luogu">
+      <UniqueIdentifier>{f1ae90d7-dd31-4173-a575-a09b394be5ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\DataStruct">
+      <UniqueIdentifier>{46335963-c7de-4699-97b3-d4138d655f2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\lanqiao">
+      <UniqueIdentifier>{2fa161f3-b627-4812-90c3-4cef35218671}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\dongxiao\F">
+      <UniqueIdentifier>{069f0ba0-107a-443d-93da-a70f298563f4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\dongxiao\C">
+      <UniqueIdentifier>{5cd3f478-4e57-49f5-a053-c5f109c2700a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\dongxiao\B">
+      <UniqueIdentifier>{813a84b9-98cc-4272-8f39-1ea9157cc2ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\dongxiao\D">
+      <UniqueIdentifier>{dbb6c144-321f-4242-bcdd-b1ac38505d83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\dongxiao\G">
+      <UniqueIdentifier>{def8c5b1-5648-489c-858e-c28c145e5b47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\leetcode">
+      <UniqueIdentifier>{772aaf0f-29b4-4f34-8939-5381507ad93e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="model.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="A01.cpp">
+      <Filter>源文件\dongxiao\A</Filter>
+    </ClCompile>
+    <ClCompile Include="A02.cpp">
+      <Filter>源文件\dongxiao\A</Filter>
+    </ClCompile>
+    <ClCompile Include="A03.cpp">
+      <Filter>源文件\dongxiao\A</Filter>
+    </ClCompile>
+    <ClCompile Include="A04.cpp">
+      <Filter>源文件\dongxiao\A</Filter>
+    </ClCompile>
+    <ClCompile Include="A05.cpp">
+      <Filter>源文件\dongxiao\A</Filter>
+    </ClCompile>
+    <ClCompile Include="A06.cpp">
+      <Filter>源文件\dongxiao\A</Filter>
+    </ClCompile>
+    <ClCompile Include="A07.cpp">
+      <Filter>源文件\dongxiao\A</Filter>
+    </ClCompile>
+    <ClCompile Include="E01.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E02.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E03.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E04.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E05.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E06.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E07.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E08.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E09.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E10.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E11.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E12.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E13.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E14.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E15.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E16.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E17.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E18.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E19.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E20.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E21.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E22.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E23.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E24.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E25.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E26.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E27.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E28.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E29.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="lanqiao19724.cpp">
+      <Filter>源文件\lanqiao</Filter>
+    </ClCompile>
+    <ClCompile Include="P1000.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1012.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1042.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1111.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1563.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1601.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P2241.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P5461.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="SeqList.cpp">
+      <Filter>源文件\DataStruct</Filter>
+    </ClCompile>
+    <ClCompile Include="E30.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E31.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E36.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E32.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E33.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="F01.cpp">
+      <Filter>源文件\dongxiao\F</Filter>
+    </ClCompile>
+    <ClCompile Include="E34.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E35.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="F02.cpp">
+      <Filter>源文件\dongxiao\F</Filter>
+    </ClCompile>
+    <ClCompile Include="F03.cpp">
+      <Filter>源文件\dongxiao\F</Filter>
+    </ClCompile>
+    <ClCompile Include="C01.cpp">
+      <Filter>源文件\dongxiao\C</Filter>
+    </ClCompile>
+    <ClCompile Include="C02.cpp">
+      <Filter>源文件\dongxiao\C</Filter>
+    </ClCompile>
+    <ClCompile Include="E37.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="E38.cpp">
+      <Filter>源文件\dongxiao\E</Filter>
+    </ClCompile>
+    <ClCompile Include="F04.cpp">
+      <Filter>源文件\dongxiao\F</Filter>
+    </ClCompile>
+    <ClCompile Include="P7333.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P2516.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="B01.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B02.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B03.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B04.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B05.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B06.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B07.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B10.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B11.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B12.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B13.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B14.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="D01.cpp">
+      <Filter>源文件\dongxiao\D</Filter>
+    </ClCompile>
+    <ClCompile Include="F05.cpp">
+      <Filter>源文件\dongxiao\F</Filter>
+    </ClCompile>
+    <ClCompile Include="G01.cpp">
+      <Filter>源文件\dongxiao\G</Filter>
+    </ClCompile>
+    <ClCompile Include="P1967.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1434.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="G02.cpp">
+      <Filter>源文件\dongxiao\G</Filter>
+    </ClCompile>
+    <ClCompile Include="G03.cpp">
+      <Filter>源文件\dongxiao\G</Filter>
+    </ClCompile>
+    <ClCompile Include="G04.cpp">
+      <Filter>源文件\dongxiao\G</Filter>
+    </ClCompile>
+    <ClCompile Include="G05.cpp">
+      <Filter>源文件\dongxiao\G</Filter>
+    </ClCompile>
+    <ClCompile Include="G06.cpp">
+      <Filter>源文件\dongxiao\G</Filter>
+    </ClCompile>
+    <ClCompile Include="G07.cpp">
+      <Filter>源文件\dongxiao\G</Filter>
+    </ClCompile>
+    <ClCompile Include="G08.cpp">
+      <Filter>源文件\dongxiao\G</Filter>
+    </ClCompile>
+    <ClCompile Include="P10087.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="F06.cpp">
+      <Filter>源文件\dongxiao\F</Filter>
+    </ClCompile>
+    <ClCompile Include="P4407.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1364.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="F07.cpp">
+      <Filter>源文件\dongxiao\F</Filter>
+    </ClCompile>
+    <ClCompile Include="B15.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B16.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B18.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="B17.cpp">
+      <Filter>源文件\dongxiao\B</Filter>
+    </ClCompile>
+    <ClCompile Include="F08.cpp">
+      <Filter>源文件\dongxiao\F</Filter>
+    </ClCompile>
+    <ClCompile Include="P2629.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1807.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P4017.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1347.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="CF1385E.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P4309.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1204.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P4231.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P5206.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="T271585.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P221.cpp">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="P1387.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P1719.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="Lcp74.cpp">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="P3397.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P2132.cpp">
+      <Filter>源文件\leetcode</Filter>
+    </ClCompile>
+    <ClCompile Include="P3374.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+    <ClCompile Include="P3368.cpp">
+      <Filter>源文件\luogu</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="unsolved.txt">
+      <Filter>资源文件</Filter>
+    </Text>
+    <Text Include="KeyIdeaP7333.txt" />
+  </ItemGroup>
+</Project>
